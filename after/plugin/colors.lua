@@ -1,4 +1,4 @@
-
+-- adding a comment for proof of commenting
 
 function ColorMyPencils(color)
 	color = color or "rose-pine"
